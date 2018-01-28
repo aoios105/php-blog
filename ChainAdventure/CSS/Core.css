@@ -1,0 +1,236 @@
+
+
+poster {
+    z-index: -20;
+}
+.submitlabel {
+    position: relative;
+    margin: auto;
+    font-size: 150%;
+    color: white;
+    background-color: #232526;
+    font-family: Futura, Helvetica, sans-serif;
+    opacity: 0.9;
+    border: none;
+    border-bottom: 4px solid #4a9fda;
+}
+
+
+.headerContainer {
+    position: relative;
+    height: 15%;
+    width: 100%;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    z-index: 900;
+    top: 0px;
+}
+
+#Headers {
+    font-size: 150%;
+    color: white;
+    z-index: 500;
+    background-color: #fcfcfc;
+    font-family: Futura, Helvetica, sans-serif;
+
+}
+
+
+
+.submitlabel:hover {
+    font-size: 190%;
+    color: white;
+    background-color: #4a9fda;
+    font-family: Futura, Helvetica, sans-serif;
+    opacity: 0.9;
+    border: none;
+    margin-top: -1%;
+    border-bottom: 4px solid #232526;
+}
+
+#basiclink:hover {
+    text-decoration: none;
+}
+
+.forms {
+    margin-bottom: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Login {
+    position: fixed;
+    height: 150%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    z-index: 400;
+    margin-top: auto;
+    margin-bottom: auto;
+    overflow: auto;
+}
+
+#Login  #Registration1 {
+    position: fixed;
+    margin
+}
+
+
+#Login #Registration2 {
+    position: fixed;
+    margin-top: -2.5%;
+}
+
+.heighttext{
+    height: 5%;
+    width:100%;
+}
+
+.rememberlabel {
+    color: white;
+    margin-right: 0px;
+}
+
+select {
+    width: 55%;
+    height: 5%;
+}
+
+body {
+    background-color: #4a9fda;
+    overflow: hidden;
+}
+
+.LoginForm {
+    position: relative;
+    width: 35%;
+    height: auto;
+    z-index: 500;
+    top: 20%;
+    right:40%;
+    left: 40%;
+    overflow: auto;
+    margin-bottom: 8%;
+}
+
+
+.form-group {
+    position: relative;
+    margin-top: 1%;
+    font-size: 130%;
+    font-colour: white;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.form-group #one{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    font-size: 190%;
+    font-colour: white;
+    color: white;
+    margin-bottom: 2%;
+}
+
+.form-group #two{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    font-size: 215%;
+    font-colour: white;
+    color: white;
+    margin-bottom: 5%;
+}
+
+
+.datafill {
+    height: 38px;
+    color: #4a9fda;
+    font-size: 100%;
+}
+
+.error {
+    font-size: 80%;
+    width: 55%;
+}
+
+
+form input {
+    height: 5%;
+    position: relative;
+    width: 55%;
+    padding: 8px 24px 8px 10px;
+    letter-spacing: .075em;
+    opacity: 0.9;
+    text-shadow: 0 1px 0 rgba(0,0,0,.1);
+    font-size: 13%;
+
+}
+
+ button {
+    color: #232526;
+    background-color: #232526;
+    font-size: 130%;
+    opacity: 0.9;
+     margin-left: auto;
+     margin-right: auto;
+     height: 4%;
+}
+
+button:hover {
+    height: 4%;
+    background-color: #4a9fda;
+    border-bottom: 4px solid #232526;
+}
+
+
+.homepage-hero-module {
+    top: 0px;
+    position: fixed;
+    height: 180%;
+    z-index: 150;
+    border-bottom: 4px solid #4a9fda;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+
+.video-container {
+    position: fixed;
+    background-size: cover;
+    height: 150%;
+    border-bottom: 6px solid #4a9fda;
+}
+.video-container .poster img {
+    bottom: 0;
+    position: fixed;
+    height: 150%;
+}
+.video-container .filter {
+    z-index: 50;
+    position: fixed;
+    height: 150%;
+
+}
+.video-container video {
+    position: fixed;
+    z-index: 110;
+
+}
+.video-container video.fillWidth {
+    width: 100%;
+    border-bottom: 4px solid #4a9fda;
+}
+

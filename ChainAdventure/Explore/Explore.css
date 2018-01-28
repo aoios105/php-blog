@@ -1,0 +1,28 @@
+
+    /* Always set the map height explicitly to define the size of the div
+     * element that contains the map. */
+#map {
+    height: 100%;
+
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin-top: -5%;
+    padding: 0;
+}
+
+#MapAddPlace {
+    color: red;
+    z-index: 100;
+    float: right;
+}
+
+    .form-group {
+        position: relative;
+        margin-top: 1%;
+        font-size: 130%;
+        font-colour: white;
+        color: white;
+        margin-bottom: 5%;
+    }
